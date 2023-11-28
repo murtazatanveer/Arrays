@@ -24,6 +24,7 @@ scanf("%d",&num[i]);
 
 }
 
+
 printf("\nReverse : ");
 
 
