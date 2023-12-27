@@ -5,7 +5,7 @@ int main(){
     int num;
     printf("\nHow many integers you want to put in Desending order : ");
     scanf("%d",&num);
-
+    
 int array[num];
 
 printf("\nEnter integers with space : ");
